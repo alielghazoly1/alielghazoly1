@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-🧾 Building ERP & Accounting Systems<br>🌐 Developing Frontend interfaces (React / HTML / CSS)<br>⚙️ Backend APIs with Node.js & Express<br>🗄️ Working with MongoDB & databases<br>📦 Inventory & Invoice Management Systems<br>🔗 API integration & system automation
+🧾 Building ERP & Accounting Systems<br>🌐 Developing Frontend interfaces (React)<br>⚙️ Backend APIs with Node.js & Express<br>🗄️ Working with MongoDB & databases<br>📦 Inventory & Invoice Management Systems<br>🔗 API integration & system automation
 
 
 # 💻 Tech Stack:
